@@ -1,0 +1,25 @@
+@font-face {
+  font-family: 'blur';
+  src: url('./assets/fonts/Blur.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
+body{
+  font-family: 'blur', serif;
+  margin: 0;
+}
+
+.font-exposure {
+    font-family: 'Exposure', sans-serif;
+}
+                                                
+.loading-spinner {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  font-size: 1.5rem;
+  color: #fff;
+  background: #000;
+}
