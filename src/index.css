@@ -1,3 +1,4 @@
+@import "tailwindcss";
 @font-face {
   font-family: 'blur';
   src: url('./assets/fonts/Blur.otf') format('opentype');
