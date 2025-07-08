@@ -6,7 +6,6 @@ import video2 from "../assets/278750_tiny.mp4";
 import video3 from "../assets/284566_tiny.mp4";
 import video4 from "../assets/253998_medium.mp4";
 import video5 from "../assets/284566_tiny.mp4";
-import video6 from "../assets/253998_medium.mp4";
 
 const Work = () => {
   const contentData = [
